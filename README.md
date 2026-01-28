@@ -3,7 +3,10 @@
 A simple weather forecast application built using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 ## Project Structure
-
+├── images/
+├── index.html
+├── script.js
+└── style.css
 
 ## Features
 - Search weather by city
