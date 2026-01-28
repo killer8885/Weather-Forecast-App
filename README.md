@@ -3,10 +3,10 @@
 A simple weather forecast application built using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 ## Project Structure
-<div class="d-flex'>
-├── images/
-├── index.html
-├── script.js
+<div >
+├── images/ </div> <div>
+├── index.html </div> <div>
+├── script.js </div> <div>
 └── style.css
 </div>
 
