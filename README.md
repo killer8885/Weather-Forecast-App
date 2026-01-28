@@ -9,6 +9,9 @@ A simple weather forecast application built using HTML, CSS, JavaScript, Bootstr
 ├── script.js
 └── style.css
 
+
+
+
 ## Features
 - Search weather by city
 - Shows temperature and weather conditions
