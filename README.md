@@ -4,7 +4,7 @@ A simple weather forecast application built using HTML, CSS, JavaScript, Bootstr
 
 ## Project Structure
 <div>
-├── images/
+├── images/</div>
 ├── index.html
 ├── script.js
 └── style.css
