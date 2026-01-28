@@ -3,8 +3,8 @@
 A simple weather forecast application built using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 ## Project Structure
-<div>
-├── images/</div>
+<div class="d-flex'>
+├── images/
 ├── index.html
 ├── script.js
 └── style.css
