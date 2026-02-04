@@ -1,5 +1,5 @@
 # Weather Forecast App
-
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b1365af2-c2a3-4e76-b40c-9abfde6a7fcb" />
 A simple weather forecast application built using HTML, CSS, JavaScript, Bootstrap, and jQuery.
 
 ## Project Structure
